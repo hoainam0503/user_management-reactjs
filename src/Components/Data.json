@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Tom Cruise",
+        "tel" : "0903445511",
+        "Permission": "1"
+    },
+    {
+        "id": 2,
+        "name": "Adam Sandler",
+        "tel" : "0903332299",
+        "Permission": "2"
+    },
+    {
+        "id": 3,
+        "name": "Beyoncé",
+        "tel" : "0985483441",
+        "Permission": "3"
+    },
+    {
+        "id": 4,
+        "name": "Jimmy Fallon",
+        "tel" : "0903123098",
+        "Permission": "2"
+    },
+    {
+        "id": 5,
+        "name": "Ron Howard",
+        "tel" : "0903546097",
+        "Permission": "1"
+    },
+    {
+        "id": 6,
+        "name": "Jennifer Lawrence",
+        "tel" : "0903883300",
+        "Permission": "2"
+    }
+]
